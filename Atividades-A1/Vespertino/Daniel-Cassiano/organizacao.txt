@@ -1,0 +1,13 @@
+api-alunos/
+│
+├── src/
+│   ├── server.js
+|   ├── data/
+|   |   └── alunos.js
+│   ├── routes/
+│   │   └── alunos.js
+│   └── middlewares/
+│       └── logger.js
+│
+├── package.json
+└── README.md
